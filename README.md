@@ -5,8 +5,8 @@
 <p align="left">
 Eletrônica | Engenheiro Eletricista 🔌. (Em Progresso)
 
-Estudante na UFRN. :man_technologist:
-</p>
+Estudante na UFRN. :man_technologist: </p>
+
 ## Sobre mim
 
 :heart: Jogos | :black_heart: Hip-Hop | ⚡: Eletrônica
