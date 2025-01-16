@@ -3,7 +3,7 @@
 
 
 
-### Gabriel 🐱
+# Gabriel 🐱
 <p align="left">
 Eletrônica | Engenheiro Eletricista 🔌. (Em Progresso)
 
