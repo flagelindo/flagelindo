@@ -1,5 +1,5 @@
 
-<img align="right" width="500" height="200" src="https://www.siliconera.com/wp-content/uploads/2023/07/sf6-rashid-key-art-png-jpgcopy.jpeg"> 
+<img align="right" width="400" height="400" src="https://www.siliconera.com/wp-content/uploads/2023/07/sf6-rashid-key-art-png-jpgcopy.jpeg"> 
 
 
 
