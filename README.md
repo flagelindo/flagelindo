@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://i.pinimg.com/originals/79/70/8e/79708eee2802d191bdb067529b0a42cb.jpg">
+<img align="right" width="200" height="200" src="https://i.pinimg.com/originals/79/70/8e/79708eee2802d191bdb067529b0a42cb.jpg">
 
 
 # Gabriel 🐱
