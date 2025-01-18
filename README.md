@@ -18,3 +18,12 @@ Estudante na UFRN. :man_technologist: </p>
 - :video_game: Gosto de jogos
 - 💻 Apaixonado por tecnologia 
 
+
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+
+<hr />
+
+
+⭐ From [Hayat Tamboli](https://github.com/hayat-tamboli)
