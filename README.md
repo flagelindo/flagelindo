@@ -4,7 +4,7 @@
  ⚡ Técnico em Eletrônica e futuro Engenheiro Eletricista! 🔋✨ Atualmente estudante na UFRN, apaixonado por tecnologia e sempre buscando aprender mais sobre como as coisas funcionam, desde circuitos simples até sistemas complexos. Sou novo na programação, porém o caminho pela frente é infinitamente gigante! <br>
  🤖 Também faço manutenção e montagem de dispositivos eletrônicos em geral como Desktops 🛠
  <br>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F13038&psig=AOvVaw2oj2rU33k7wy6xt5zFo0hl&ust=1737314962222000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODJyNuAgIsDFQAAAAAdAAAAABAx">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F843862048921531383%2F&psig=AOvVaw0iqhBLocHLDHNDZ5pqkUjv&ust=1737315115504000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDphKSBgIsDFQAAAAAdAAAAABAS">
 
  
 
