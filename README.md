@@ -14,7 +14,7 @@ Estudante na UFRN. :man_technologist: </p>
 
 :heart: Jogos | :black_heart: Hip-Hop | ⚡: Eletrônica
 
-- :earth_americas: Sou de Natal - Brasil
+- :earth_americas: Sou de Natal - Brasil <br> 
 - :video_game: Gosto de jogos
 - 💻 Apaixonado por tecnologia 
 
