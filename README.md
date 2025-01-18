@@ -22,7 +22,8 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://profile-counter.glitch.me/flagelindo/count.svg" />
+
 </p>
 
 ## Entre em contato ou me siga! 
