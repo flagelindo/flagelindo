@@ -2,6 +2,8 @@
 ## Olá, meu nome é Gabriel!
 
  ⚡ Técnico em Eletrônica e futuro Engenheiro Eletricista! 🔋✨ Atualmente estudante na UFRN, apaixonado por tecnologia e sempre buscando aprender mais sobre como as coisas funcionam, desde circuitos simples até sistemas complexos. Sou novo na programação, porém o caminho pela frente é infinitamente gigante!
+ Também faço manutenção e montagem de dispositivos eletrônicos em geral como Desktops 🛠
+ 
 
 ---
 
