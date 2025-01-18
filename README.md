@@ -1,20 +1,13 @@
 
-# Gabriel 🐱
-<p align="left">
-Técnico em Eletrônica | Engenheiro Eletricista 🔌. (Em Progresso)
+##Olá, meu nome é Gabriel!
 
-Estudante na UFRN. :man_technologist: </p>
+🔭  Técnico em Eletrônica e futuro Engenheiro Eletricista! 🔋✨ Atualmente estudante na UFRN, apaixonado por tecnologia e sempre buscando aprender mais sobre como as coisas funcionam, desde circuitos simples até sistemas complexos. Sou novo na programação, porém o caminho pela frente é infinitamente gigante! 
 
+---
 
-# Sobre mim
-<img align="right" width="200" height="200" src="https://media.tenor.com/j14S2jclUA8AAAAC/street-fighter-sf3.gif"> 
-
-:heart: Jogos | 🎵 Música | ⚡: Eletrônica
-
-- :earth_americas: Sou de Natal - Brasil <br> 
-- :video_game: Gosto de jogos
-- 💻 Apaixonado por tecnologia
-
+## 🚀 Minhas Skills (até o momento)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 <br> 
 <br>
 <br>
