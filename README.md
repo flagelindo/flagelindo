@@ -19,10 +19,6 @@ Estudante na UFRN. :man_technologist: </p>
 - 💻 Apaixonado por tecnologia 
 
 
-<h1 align="center" > Hi, I am Hayat Tamboli 👋</h1>
-
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
-
 <hr/>
 
 <div align="center">
