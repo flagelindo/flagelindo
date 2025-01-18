@@ -27,7 +27,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.silva.097@ufrn.edu.br)](mailto:jose.silva.097@ufrn.edu.br)
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
+  <i><b>Contador de visitas...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/flagelindo/count.svg" />
 
