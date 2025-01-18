@@ -19,11 +19,15 @@ Estudante na UFRN. :man_technologist: </p>
 - 💻 Apaixonado por tecnologia 
 
 
-### 👀 visitor count
+<h1 align="center" > Hi, I am Hayat Tamboli 👋</h1>
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
-<hr />
+<hr/>
+
+<div align="center">
 
 
-⭐ From [Hayat Tamboli](https://github.com/hayat-tamboli)
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
