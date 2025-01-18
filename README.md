@@ -13,7 +13,7 @@ Estudante na UFRN. :man_technologist: </p>
 
 - :earth_americas: Sou de Natal - Brasil <br> 
 - :video_game: Gosto de jogos
-- 💻 Apaixonado por tecnologia 
+- 💻 Apaixonado por tecnologia
 
 <br> 
 <br>
