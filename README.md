@@ -4,7 +4,7 @@
 
 # Gabriel 🐱
 <p align="left">
-Eletrônica | Engenheiro Eletricista 🔌. (Em Progresso)
+Técnico em Eletrônica | Engenheiro Eletricista 🔌. (Em Progresso)
 
 Estudante na UFRN. :man_technologist: </p>
 
